@@ -1,0 +1,2417 @@
+[?1034h******************************************************************************
+*Tree    :PKUCandidates: PKU Candidates                                         *
+*Entries :   598656 : Total =      7682393393 bytes  File  Size = 1982368275 *
+*        :          : Tree compression factor =   3.90                       *
+******************************************************************************
+*Br    0 :hasphoton : hasphoton/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =     708954 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.47     *
+*............................................................................*
+*Br    1 :ngoodmus  : ngoodmus/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     673639 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.30     *
+*............................................................................*
+*Br    2 :ngoodeles : ngoodeles/I                                            *
+*Entries :   598656 : Total  Size=    3018949 bytes  File Size  =     659444 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.40     *
+*............................................................................*
+*Br    3 :pweight   : pweight[703]/D                                         *
+*Entries :598656 : Total  Size= 3379415801 bytes  File Size  = 33802770 *
+*Baskets :   122079 : Basket Size=      32000 bytes  Compression=  99.90     *
+*............................................................................*
+*Br    4 :jet1hf_orig : jet1hf_orig/I                                        *
+*Entries :   598656 : Total  Size=    3030843 bytes  File Size  =     654157 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.45     *
+*............................................................................*
+*Br    5 :jet1pf_orig : jet1pf_orig/I                                        *
+*Entries :   598656 : Total  Size=    3030843 bytes  File Size  =     654157 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.45     *
+*............................................................................*
+*Br    6 :jet2hf_orig : jet2hf_orig/I                                        *
+*Entries :   598656 : Total  Size=    3030843 bytes  File Size  =     654157 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.45     *
+*............................................................................*
+*Br    7 :jet2pf_orig : jet2pf_orig/I                                        *
+*Entries :   598656 : Total  Size=    3030843 bytes  File Size  =     654157 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.45     *
+*............................................................................*
+*Br    8 :jet1pt_orig : jet1pt_orig/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    5305131 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br    9 :jet1phi_orig : jet1phi_orig/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3876223 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br   10 :jet1eta_orig : jet1eta_orig/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3872374 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br   11 :jet1e_orig : jet1e_orig/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5299472 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   12 :jet1csv_orig : jet1csv_orig/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3509567 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.51     *
+*............................................................................*
+*Br   13 :jet1deepcsv_probb_orig : jet1deepcsv_probb_orig/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    3493527 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.54     *
+*............................................................................*
+*Br   14 :jet1deepcsv_probbb_orig : jet1deepcsv_probbb_orig/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =    3484744 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.54     *
+*............................................................................*
+*Br   15 :jet1deepcsv_probc_orig : jet1deepcsv_probc_orig/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    3471476 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.55     *
+*............................................................................*
+*Br   16 :jet1deepcsv_probcc_orig : jet1deepcsv_probcc_orig/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =     781553 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   6.88     *
+*............................................................................*
+*Br   17 :jet1icsv_orig : jet1icsv_orig/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3516263 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.51     *
+*............................................................................*
+*Br   18 :drj1a_orig : drj1a_orig/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5299499 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   19 :drj1l_orig : drj1l_orig/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5299800 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   20 :jet2pt_orig : jet2pt_orig/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    5303898 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   21 :jet2phi_orig : jet2phi_orig/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3876787 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br   22 :jet2eta_orig : jet2eta_orig/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3885763 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br   23 :jet2e_orig : jet2e_orig/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5299414 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   24 :jet2csv_orig : jet2csv_orig/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3427222 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.55     *
+*............................................................................*
+*Br   25 :jet2deepcsv_probb_orig : jet2deepcsv_probb_orig/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    3287986 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.63     *
+*............................................................................*
+*Br   26 :jet2deepcsv_probbb_orig : jet2deepcsv_probbb_orig/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =    3264426 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.65     *
+*............................................................................*
+*Br   27 :jet2deepcsv_probc_orig : jet2deepcsv_probc_orig/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    3272323 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.64     *
+*............................................................................*
+*Br   28 :jet2deepcsv_probcc_orig : jet2deepcsv_probcc_orig/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =     781553 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   6.88     *
+*............................................................................*
+*Br   29 :jet2icsv_orig : jet2icsv_orig/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3432659 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.55     *
+*............................................................................*
+*Br   30 :drj2a_orig : drj2a_orig/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5299601 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   31 :drj2l_orig : drj2l_orig/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5300025 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   32 :rawPt     : rawPt/F                                                *
+*Entries :   598656 : Total  Size=    2995161 bytes  File Size  =     635874 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.52     *
+*............................................................................*
+*Br   33 :nevent    : nevent/I                                               *
+*Entries :   598656 : Total  Size=    3001108 bytes  File Size  =    2881948 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   34 :run       : run/I                                                  *
+*Entries :   598656 : Total  Size=    2983267 bytes  File Size  =     712957 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.02     *
+*............................................................................*
+*Br   35 :ls        : ls/I                                                   *
+*Entries :   598656 : Total  Size=    2977320 bytes  File Size  =     849094 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.37     *
+*............................................................................*
+*Br   36 :nVtx      : nVtx/I                                                 *
+*Entries :   598656 : Total  Size=    2989214 bytes  File Size  =    1493272 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.92     *
+*............................................................................*
+*Br   37 :theWeight : theWeight/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =     698356 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.58     *
+*............................................................................*
+*Br   38 :nump      : nump/D                                                 *
+*Entries :   598656 : Total  Size=    5383846 bytes  File Size  =     636978 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   8.27     *
+*............................................................................*
+*Br   39 :numm      : numm/D                                                 *
+*Entries :   598656 : Total  Size=    5383846 bytes  File Size  =     636978 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   8.27     *
+*............................................................................*
+*Br   40 :npT       : npT/D                                                  *
+*Entries :   598656 : Total  Size=    5377899 bytes  File Size  =     674394 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.80     *
+*............................................................................*
+*Br   41 :lep       : lep/I                                                  *
+*Entries :   598656 : Total  Size=    2983267 bytes  File Size  =     644127 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.45     *
+*............................................................................*
+*Br   42 :ptVlep    : ptVlep/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =    5275440 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   43 :ptVlepJEC : ptVlepJEC/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    5293269 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   44 :yVlepJEC  : yVlepJEC/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    5288389 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   45 :phiVlepJEC : phiVlepJEC/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5300313 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   46 :massVlepJEC : massVlepJEC/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    3047207 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br   47 :mtVlepJECnew : mtVlepJECnew/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    5311257 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   48 :ptVlepJEC_new : ptVlepJEC_new/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    5317050 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   49 :yVlepJEC_new : yVlepJEC_new/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    5312170 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   50 :phiVlepJEC_new : phiVlepJEC_new/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    5324094 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   51 :massVlepJEC_new : massVlepJEC_new/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    3097169 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br   52 :mtVlepJECnew_new : mtVlepJECnew_new/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    5335015 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   53 :ptVlepJEC_JEC_up : ptVlepJEC_JEC_up/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    5334871 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   54 :yVlepJEC_JEC_up : yVlepJEC_JEC_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    5329986 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   55 :phiVlepJEC_JEC_up : phiVlepJEC_JEC_up/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    5341919 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   56 :massVlepJEC_JEC_up : massVlepJEC_JEC_up/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3117255 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br   57 :mtVlepJECnew_JEC_up : mtVlepJECnew_JEC_up/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    5352865 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   58 :ptVlepJEC_JEC_down : ptVlepJEC_JEC_down/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    5346776 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   59 :yVlepJEC_JEC_down : yVlepJEC_JEC_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    5341878 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   60 :phiVlepJEC_JEC_down : phiVlepJEC_JEC_down/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    5353804 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   61 :massVlepJEC_JEC_down : massVlepJEC_JEC_down/D                      *
+*Entries :   598656 : Total  Size=    5478998 bytes  File Size  =    3125205 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br   62 :mtVlepJECnew_JEC_down : mtVlepJECnew_JEC_down/D                    *
+*Entries :   598656 : Total  Size=    5484945 bytes  File Size  =    5364746 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   63 :ptVlepJEC_JER_up : ptVlepJEC_JER_up/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    5334879 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   64 :yVlepJEC_JER_up : yVlepJEC_JER_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    5329999 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   65 :phiVlepJEC_JER_up : phiVlepJEC_JER_up/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    5341923 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   66 :massVlepJEC_JER_up : massVlepJEC_JER_up/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3114998 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br   67 :mtVlepJECnew_JER_up : mtVlepJECnew_JER_up/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    5352844 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   68 :ptVlepJEC_JER_down : ptVlepJEC_JER_down/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    5346765 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   69 :yVlepJEC_JER_down : yVlepJEC_JER_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    5341885 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   70 :phiVlepJEC_JER_down : phiVlepJEC_JER_down/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    5353809 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   71 :massVlepJEC_JER_down : massVlepJEC_JER_down/D                      *
+*Entries :   598656 : Total  Size=    5478998 bytes  File Size  =    3126884 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.71     *
+*............................................................................*
+*Br   72 :mtVlepJECnew_JER_down : mtVlepJECnew_JER_down/D                    *
+*Entries :   598656 : Total  Size=    5484945 bytes  File Size  =    5364730 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br   73 :Mla       : Mla/D                                                  *
+*Entries :   598656 : Total  Size=    5377899 bytes  File Size  =    2270726 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.32     *
+*............................................................................*
+*Br   74 :Mla_f     : Mla_f/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    4500547 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   75 :Mva       : Mva/D                                                  *
+*Entries :   598656 : Total  Size=    5377899 bytes  File Size  =    2270247 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.32     *
+*............................................................................*
+*Br   76 :Mva_f     : Mva_f/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    4495274 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   77 :nlooseeles : nlooseeles/I                                          *
+*Entries :   598656 : Total  Size=    3024896 bytes  File Size  =     665387 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.37     *
+*............................................................................*
+*Br   78 :nloosemus : nloosemus/I                                            *
+*Entries :   598656 : Total  Size=    3018949 bytes  File Size  =     679582 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.27     *
+*............................................................................*
+*Br   79 :genphoton_pt : genphoton_pt[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =     944965 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  30.96     *
+*............................................................................*
+*Br   80 :genphoton_eta : genphoton_eta[6]/D                                 *
+*Entries :   598656 : Total  Size=   29383615 bytes  File Size  =     950908 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  30.78     *
+*............................................................................*
+*Br   81 :genphoton_phi : genphoton_phi[6]/D                                 *
+*Entries :   598656 : Total  Size=   29383615 bytes  File Size  =     950908 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  30.78     *
+*............................................................................*
+*Br   82 :genmuon_pt : genmuon_pt[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =     933079 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  31.34     *
+*............................................................................*
+*Br   83 :genmuon_eta : genmuon_eta[6]/D                                     *
+*Entries :   598656 : Total  Size=   29371721 bytes  File Size  =     939022 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  31.15     *
+*............................................................................*
+*Br   84 :genmuon_phi : genmuon_phi[6]/D                                     *
+*Entries :   598656 : Total  Size=   29371721 bytes  File Size  =     939022 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  31.15     *
+*............................................................................*
+*Br   85 :genelectron_pt : genelectron_pt[6]/D                               *
+*Entries :   598656 : Total  Size=   29389562 bytes  File Size  =     956851 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  30.59     *
+*............................................................................*
+*Br   86 :genelectron_eta : genelectron_eta[6]/D                             *
+*Entries :   598656 : Total  Size=   29395509 bytes  File Size  =     962794 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  30.41     *
+*............................................................................*
+*Br   87 :genelectron_phi : genelectron_phi[6]/D                             *
+*Entries :   598656 : Total  Size=   29395509 bytes  File Size  =     962794 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  30.41     *
+*............................................................................*
+*Br   88 :genjet_pt : genjet_pt[6]/D                                         *
+*Entries :   598656 : Total  Size=   29359827 bytes  File Size  =     927136 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  31.54     *
+*............................................................................*
+*Br   89 :genjet_eta : genjet_eta[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =     933079 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  31.34     *
+*............................................................................*
+*Br   90 :genjet_phi : genjet_phi[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =     933079 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  31.34     *
+*............................................................................*
+*Br   91 :genjet_e  : genjet_e[6]/D                                          *
+*Entries :   598656 : Total  Size=   29353880 bytes  File Size  =     921193 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  31.74     *
+*............................................................................*
+*Br   92 :photon_pt : photon_pt[6]/D                                         *
+*Entries :   598656 : Total  Size=   29359827 bytes  File Size  =    6818048 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.29     *
+*............................................................................*
+*Br   93 :photon_eta : photon_eta[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =    7138487 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.10     *
+*............................................................................*
+*Br   94 :photon_phi : photon_phi[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =    7152319 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.09     *
+*............................................................................*
+*Br   95 :photon_e  : photon_e[6]/D                                          *
+*Entries :   598656 : Total  Size=   29353880 bytes  File Size  =   10207227 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.86     *
+*............................................................................*
+*Br   96 :photonsc_eta : photonsc_eta[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =   10450420 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.80     *
+*............................................................................*
+*Br   97 :photonsc_phi : photonsc_phi[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =   10459185 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.80     *
+*............................................................................*
+*Br   98 :photon_pev : photon_pev[6]/O                                       *
+*Entries :   598656 : Total  Size=    4222208 bytes  File Size  =    1302742 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.15     *
+*............................................................................*
+*Br   99 :photon_pevnew : photon_pevnew[6]/O                                 *
+*Entries :   598656 : Total  Size=    4240049 bytes  File Size  =    1321535 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.12     *
+*............................................................................*
+*Br  100 :photon_ppsv : photon_ppsv[6]/O                                     *
+*Entries :   598656 : Total  Size=    4228155 bytes  File Size  =    1204897 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.41     *
+*............................................................................*
+*Br  101 :photon_iseb : photon_iseb[6]/O                                     *
+*Entries :   598656 : Total  Size=    4228155 bytes  File Size  =    1295063 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.17     *
+*............................................................................*
+*Br  102 :photon_isee : photon_isee[6]/O                                     *
+*Entries :   598656 : Total  Size=    4228155 bytes  File Size  =    1221863 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.36     *
+*............................................................................*
+*Br  103 :photon_hoe : photon_hoe[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =    4709625 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   6.21     *
+*............................................................................*
+*Br  104 :photon_sieie : photon_sieie[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =    6844095 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.27     *
+*............................................................................*
+*Br  105 :photon_sieie2 : photon_sieie2[6]/D                                 *
+*Entries :   598656 : Total  Size=   29383615 bytes  File Size  =    6829570 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.28     *
+*............................................................................*
+*Br  106 :photon_chiso : photon_chiso[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =    7912042 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.70     *
+*............................................................................*
+*Br  107 :photon_nhiso : photon_nhiso[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =    4757191 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   6.15     *
+*............................................................................*
+*Br  108 :photon_phoiso : photon_phoiso[6]/D                                 *
+*Entries :   598656 : Total  Size=   29383615 bytes  File Size  =    6785076 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.31     *
+*............................................................................*
+*Br  109 :photon_istrue : photon_istrue[6]/I                                 *
+*Entries :   598656 : Total  Size=   15015863 bytes  File Size  =     779837 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  19.10     *
+*............................................................................*
+*Br  110 :photon_isprompt : photon_isprompt[6]/I                             *
+*Entries :   598656 : Total  Size=   15027757 bytes  File Size  =     791091 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  18.85     *
+*............................................................................*
+*Br  111 :photon_drla : photon_drla[6]/D                                     *
+*Entries :   598656 : Total  Size=   29371721 bytes  File Size  =   10320949 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.83     *
+*............................................................................*
+*Br  112 :photon_mla : photon_mla[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =   10227463 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.86     *
+*............................................................................*
+*Br  113 :photon_mva : photon_mva[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =   10192430 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  114 :passEleVeto : passEleVeto/O                                        *
+*Entries :   598656 : Total  Size=    1234869 bytes  File Size  =     816082 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br  115 :passEleVetonew : passEleVetonew/O                                  *
+*Entries :   598656 : Total  Size=    1252710 bytes  File Size  =     837441 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  116 :passPixelSeedVeto : passPixelSeedVeto/O                            *
+*Entries :   598656 : Total  Size=    1270551 bytes  File Size  =     872613 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  117 :photonhaspixelseed : photonhaspixelseed/O                          *
+*Entries :   598656 : Total  Size=    1276498 bytes  File Size  =     803250 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.44     *
+*............................................................................*
+*Br  118 :photonhaspixelseed_f : photonhaspixelseed_f/O                      *
+*Entries :   598656 : Total  Size=    1288392 bytes  File Size  =     885575 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  119 :photonpasseleveto : photonpasseleveto/O                            *
+*Entries :   598656 : Total  Size=    1270551 bytes  File Size  =     854724 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  120 :photonpasseleveto_f : photonpasseleveto_F/O                        *
+*Entries :   598656 : Total  Size=    1282445 bytes  File Size  =     886719 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.31     *
+*............................................................................*
+*Br  121 :photonet  : photonet/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    1850536 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.86     *
+*............................................................................*
+*Br  122 :photonet_f : photonet_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    3167290 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.67     *
+*............................................................................*
+*Br  123 :photoneta : photoneta/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    1907515 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.78     *
+*............................................................................*
+*Br  124 :photoneta_f : photoneta_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    3389815 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.57     *
+*............................................................................*
+*Br  125 :photonphi : photonphi/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    1897125 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.79     *
+*............................................................................*
+*Br  126 :photonphi_f : photonphi_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    3406368 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.56     *
+*............................................................................*
+*Br  127 :photone   : photone/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    2294411 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.30     *
+*............................................................................*
+*Br  128 :photone_f : photone_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    4524506 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  129 :photonsceta : photonsceta/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    2356520 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.25     *
+*............................................................................*
+*Br  130 :photonsceta_f : photonsceta_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    4661649 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br  131 :photonscphi : photonscphi/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    2349350 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  132 :photonscphi_f : photonscphi_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    4665362 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br  133 :photonsieie : photonsieie/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    1869001 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.84     *
+*............................................................................*
+*Br  134 :photonsieie_f : photonsieie_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3208496 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  135 :photonphoiso : photonphoiso/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    1452279 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.66     *
+*............................................................................*
+*Br  136 :photonphoiso_f : photonphoiso_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2750148 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.94     *
+*............................................................................*
+*Br  137 :photonchiso : photonchiso/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    1584505 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.35     *
+*............................................................................*
+*Br  138 :photonchiso_f : photonchiso_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3396273 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.57     *
+*............................................................................*
+*Br  139 :photonnhiso : photonnhiso/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    1310441 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.05     *
+*............................................................................*
+*Br  140 :photonnhiso_f : photonnhiso_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    1790824 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.97     *
+*............................................................................*
+*Br  141 :iphoton   : iphoton/I                                              *
+*Entries :   598656 : Total  Size=    3007055 bytes  File Size  =    1024359 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.82     *
+*............................................................................*
+*Br  142 :iphoton_f : iphoton_f/I                                            *
+*Entries :   598656 : Total  Size=    3018949 bytes  File Size  =    1126574 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.57     *
+*............................................................................*
+*Br  143 :drla      : drla/D                                                 *
+*Entries :   598656 : Total  Size=    5383846 bytes  File Size  =    2295268 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  144 :drla_f    : drla_f/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =    4559225 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  145 :isTrue    : isTrue/I                                               *
+*Entries :   598656 : Total  Size=    3001108 bytes  File Size  =     628373 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.59     *
+*............................................................................*
+*Br  146 :isprompt  : isprompt/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     640259 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.52     *
+*............................................................................*
+*Br  147 :ispromptLep : ispromptLep/I                                        *
+*Entries :   598656 : Total  Size=    3030843 bytes  File Size  =     658088 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.42     *
+*............................................................................*
+*Br  148 :ak4jet_hf : ak4jet_hf[6]/I                                         *
+*Entries :   598656 : Total  Size=   14992075 bytes  File Size  =    1912206 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.78     *
+*............................................................................*
+*Br  149 :ak4jet_pf : ak4jet_pf[6]/I                                         *
+*Entries :   598656 : Total  Size=   14992075 bytes  File Size  =    1912206 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.78     *
+*............................................................................*
+*Br  150 :jet1hf    : jet1hf/I                                               *
+*Entries :   598656 : Total  Size=    3001108 bytes  File Size  =     968939 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.97     *
+*............................................................................*
+*Br  151 :jet1pf    : jet1pf/I                                               *
+*Entries :   598656 : Total  Size=    3001108 bytes  File Size  =     968939 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.97     *
+*............................................................................*
+*Br  152 :jet2hf    : jet2hf/I                                               *
+*Entries :   598656 : Total  Size=    3001108 bytes  File Size  =     968939 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.97     *
+*............................................................................*
+*Br  153 :jet2pf    : jet2pf/I                                               *
+*Entries :   598656 : Total  Size=    3001108 bytes  File Size  =     968939 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.97     *
+*............................................................................*
+*Br  154 :jet1hf_f  : jet1hf_f/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     962122 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.01     *
+*............................................................................*
+*Br  155 :jet1pf_f  : jet1pf_f/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     962122 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.01     *
+*............................................................................*
+*Br  156 :jet2hf_f  : jet2hf_f/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     962122 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.01     *
+*............................................................................*
+*Br  157 :jet2pf_f  : jet2pf_f/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     962122 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.01     *
+*............................................................................*
+*Br  158 :jet1hf_new : jet1hf_new/I                                          *
+*Entries :   598656 : Total  Size=    3024896 bytes  File Size  =     992713 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.93     *
+*............................................................................*
+*Br  159 :jet1pf_new : jet1pf_new/I                                          *
+*Entries :   598656 : Total  Size=    3024896 bytes  File Size  =     992713 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.93     *
+*............................................................................*
+*Br  160 :jet2hf_new : jet2hf_new/I                                          *
+*Entries :   598656 : Total  Size=    3024896 bytes  File Size  =     992713 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.93     *
+*............................................................................*
+*Br  161 :jet2pf_new : jet2pf_new/I                                          *
+*Entries :   598656 : Total  Size=    3024896 bytes  File Size  =     992713 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.93     *
+*............................................................................*
+*Br  162 :jet1hf_new_f : jet1hf_new_f/I                                      *
+*Entries :   598656 : Total  Size=    3036790 bytes  File Size  =     985917 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  163 :jet1pf_new_f : jet1pf_new_f/I                                      *
+*Entries :   598656 : Total  Size=    3036790 bytes  File Size  =     985917 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  164 :jet2hf_new_f : jet2hf_new_f/I                                      *
+*Entries :   598656 : Total  Size=    3036790 bytes  File Size  =     985917 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  165 :jet2pf_new_f : jet2pf_new_f/I                                      *
+*Entries :   598656 : Total  Size=    3036790 bytes  File Size  =     985917 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  166 :jet1hf_JEC_up : jet1hf_JEC_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010546 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  167 :jet1pf_JEC_up : jet1pf_JEC_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010546 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  168 :jet2hf_JEC_up : jet2hf_JEC_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010546 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  169 :jet2pf_JEC_up : jet2pf_JEC_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010546 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  170 :jet1hf_JEC_up_f : jet1hf_JEC_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003697 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  171 :jet1pf_JEC_up_f : jet1pf_JEC_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003697 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  172 :jet2hf_JEC_up_f : jet2hf_JEC_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003697 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  173 :jet2pf_JEC_up_f : jet2pf_JEC_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003697 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  174 :jet1hf_JEC_down : jet1hf_JEC_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022379 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  175 :jet1pf_JEC_down : jet1pf_JEC_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022379 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  176 :jet2hf_JEC_down : jet2hf_JEC_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022379 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  177 :jet2pf_JEC_down : jet2pf_JEC_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022379 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  178 :jet1hf_JEC_down_f : jet1hf_JEC_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015717 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  179 :jet1pf_JEC_down_f : jet1pf_JEC_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015717 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  180 :jet2hf_JEC_down_f : jet2hf_JEC_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015717 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  181 :jet2pf_JEC_down_f : jet2pf_JEC_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015717 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  182 :jet1hf_JER_up : jet1hf_JER_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010542 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  183 :jet1pf_JER_up : jet1pf_JER_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010542 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  184 :jet2hf_JER_up : jet2hf_JER_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010542 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  185 :jet2pf_JER_up : jet2pf_JER_up/I                                    *
+*Entries :   598656 : Total  Size=    3042737 bytes  File Size  =    1010542 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  186 :jet1hf_JER_up_f : jet1hf_JER_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003746 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  187 :jet1pf_JER_up_f : jet1pf_JER_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003746 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  188 :jet2hf_JER_up_f : jet2hf_JER_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003746 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  189 :jet2pf_JER_up_f : jet2pf_JER_up_f/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1003746 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.92     *
+*............................................................................*
+*Br  190 :jet1hf_JER_down : jet1hf_JER_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022428 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  191 :jet1pf_JER_down : jet1pf_JER_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022428 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  192 :jet2hf_JER_down : jet2hf_JER_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022428 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  193 :jet2pf_JER_down : jet2pf_JER_down/I                                *
+*Entries :   598656 : Total  Size=    3054631 bytes  File Size  =    1022428 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  194 :jet1hf_JER_down_f : jet1hf_JER_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015632 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  195 :jet1pf_JER_down_f : jet1pf_JER_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015632 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  196 :jet2hf_JER_down_f : jet2hf_JER_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015632 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  197 :jet2pf_JER_down_f : jet2pf_JER_down_f/I                            *
+*Entries :   598656 : Total  Size=    3066525 bytes  File Size  =    1015632 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.90     *
+*............................................................................*
+*Br  198 :ak4jet_pt : ak4jet_pt[6]/D                                         *
+*Entries :   598656 : Total  Size=   29359827 bytes  File Size  =   21791619 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.34     *
+*............................................................................*
+*Br  199 :ak4jet_eta : ak4jet_eta[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =   15032416 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.95     *
+*............................................................................*
+*Br  200 :ak4jet_phi : ak4jet_phi[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =   14978265 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.95     *
+*............................................................................*
+*Br  201 :ak4jet_e  : ak4jet_e[6]/D                                          *
+*Entries :   598656 : Total  Size=   29353880 bytes  File Size  =   21891990 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.34     *
+*............................................................................*
+*Br  202 :ak4jet_csv : ak4jet_csv[6]/D                                       *
+*Entries :   598656 : Total  Size=   29365774 bytes  File Size  =   12552067 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.33     *
+*............................................................................*
+*Br  203 :ak4jet_deepcsv_probb : ak4jet_deepcsv_probb[6]/D                   *
+*Entries :   598656 : Total  Size=   29425244 bytes  File Size  =   11710783 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.50     *
+*............................................................................*
+*Br  204 :ak4jet_deepcsv_probbb : ak4jet_deepcsv_probbb[6]/D                 *
+*Entries :   598656 : Total  Size=   29431191 bytes  File Size  =   11735567 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.50     *
+*............................................................................*
+*Br  205 :ak4jet_deepcsv_probc : ak4jet_deepcsv_probc[6]/D                   *
+*Entries :   598656 : Total  Size=   29425244 bytes  File Size  =   11592616 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.53     *
+*............................................................................*
+*Br  206 :ak4jet_deepcsv_probcc : ak4jet_deepcsv_probcc[6]/D                 *
+*Entries :   598656 : Total  Size=   29431191 bytes  File Size  =    2449938 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  11.96     *
+*............................................................................*
+*Br  207 :ak4jet_icsv : ak4jet_icsv[6]/D                                     *
+*Entries :   598656 : Total  Size=   29371721 bytes  File Size  =   12553579 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.33     *
+*............................................................................*
+*Br  208 :ak4jet_pt_old : ak4jet_pt_old[6]/D                                 *
+*Entries :   598656 : Total  Size=   29383615 bytes  File Size  =    1201749 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  24.35     *
+*............................................................................*
+*Br  209 :ak4jet_pt_new : ak4jet_pt_new[6]/D                                 *
+*Entries :   598656 : Total  Size=   29383615 bytes  File Size  =   16049609 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  210 :ak4jet_pt_JEC_up : ak4jet_pt_JEC_up[6]/D                           *
+*Entries :   598656 : Total  Size=   29401456 bytes  File Size  =   16066774 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  211 :ak4jet_pt_JEC_down : ak4jet_pt_JEC_down[6]/D                       *
+*Entries :   598656 : Total  Size=   29413350 bytes  File Size  =   16079797 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  212 :ak4jet_pt_JER_up : ak4jet_pt_JER_up[6]/D                           *
+*Entries :   598656 : Total  Size=   29401456 bytes  File Size  =   16071886 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  213 :ak4jet_pt_JER_down : ak4jet_pt_JER_down[6]/D                       *
+*Entries :   598656 : Total  Size=   29413350 bytes  File Size  =   16079211 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  214 :ak4jet_e_old : ak4jet_e_old[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =    1192074 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=  24.54     *
+*............................................................................*
+*Br  215 :ak4jet_e_new : ak4jet_e_new[6]/D                                   *
+*Entries :   598656 : Total  Size=   29377668 bytes  File Size  =   16336231 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.79     *
+*............................................................................*
+*Br  216 :ak4jet_e_JEC_up : ak4jet_e_JEC_up[6]/D                             *
+*Entries :   598656 : Total  Size=   29395509 bytes  File Size  =   16352954 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.79     *
+*............................................................................*
+*Br  217 :ak4jet_e_JEC_down : ak4jet_e_JEC_down[6]/D                         *
+*Entries :   598656 : Total  Size=   29407403 bytes  File Size  =   16358619 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.79     *
+*............................................................................*
+*Br  218 :ak4jet_e_JER_up : ak4jet_e_JER_up[6]/D                             *
+*Entries :   598656 : Total  Size=   29395509 bytes  File Size  =   16355264 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.79     *
+*............................................................................*
+*Br  219 :ak4jet_e_JER_down : ak4jet_e_JER_down[6]/D                         *
+*Entries :   598656 : Total  Size=   29407403 bytes  File Size  =   16364171 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.79     *
+*............................................................................*
+*Br  220 :jet1pt    : jet1pt/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =    2286576 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.31     *
+*............................................................................*
+*Br  221 :jet1pt_new : jet1pt_new/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    1930119 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.75     *
+*............................................................................*
+*Br  222 :jet1pt_JEC_up : jet1pt_JEC_up/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    1949174 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.73     *
+*............................................................................*
+*Br  223 :jet1pt_JER_up : jet1pt_JER_up/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    1947948 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.73     *
+*............................................................................*
+*Br  224 :jet1pt_JEC_down : jet1pt_JEC_down/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1959100 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.72     *
+*............................................................................*
+*Br  225 :jet1pt_JER_down : jet1pt_JER_down/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1959834 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.72     *
+*............................................................................*
+*Br  226 :jet1pt_f  : jet1pt_f/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    4514831 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  227 :jet1pt_new_f : jet1pt_new_f/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3333309 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  228 :jet1pt_JEC_up_f : jet1pt_JEC_up_f/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    3350497 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  229 :jet1pt_JER_up_f : jet1pt_JER_up_f/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    3351138 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  230 :jet1pt_JEC_down_f : jet1pt_JEC_down_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    3360275 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  231 :jet1pt_JER_down_f : jet1pt_JER_down_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    3363024 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.59     *
+*............................................................................*
+*Br  232 :jet1eta   : jet1eta/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    2169967 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.43     *
+*............................................................................*
+*Br  233 :jet1eta_new : jet1eta_new/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    2192459 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.42     *
+*............................................................................*
+*Br  234 :jet1eta_JEC_up : jet1eta_JEC_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2211070 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.41     *
+*............................................................................*
+*Br  235 :jet1eta_JEC_down : jet1eta_JEC_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    2221039 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.40     *
+*............................................................................*
+*Br  236 :jet1eta_JER_up : jet1eta_JER_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2210288 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.41     *
+*............................................................................*
+*Br  237 :jet1eta_JER_down : jet1eta_JER_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    2222174 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.40     *
+*............................................................................*
+*Br  238 :jet1eta_f : jet1eta_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    3889656 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  239 :jet1eta_new_f : jet1eta_new_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3911931 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  240 :jet1eta_JEC_up_f : jet1eta_JEC_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3931534 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  241 :jet1eta_JEC_down_f : jet1eta_JEC_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3940218 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  242 :jet1eta_JER_up_f : jet1eta_JER_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3929760 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  243 :jet1eta_JER_down_f : jet1eta_JER_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3941646 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.36     *
+*............................................................................*
+*Br  244 :jet1phi   : jet1phi/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    1945191 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.72     *
+*............................................................................*
+*Br  245 :jet1phi_new : jet1phi_new/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    1968830 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.70     *
+*............................................................................*
+*Br  246 :jet1phi_JEC_up : jet1phi_JEC_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1986967 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.68     *
+*............................................................................*
+*Br  247 :jet1phi_JEC_down : jet1phi_JEC_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1998212 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.67     *
+*............................................................................*
+*Br  248 :jet1phi_JER_up : jet1phi_JER_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1986659 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.68     *
+*............................................................................*
+*Br  249 :jet1phi_JER_down : jet1phi_JER_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1998545 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.67     *
+*............................................................................*
+*Br  250 :jet1phi_f : jet1phi_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    3516981 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.51     *
+*............................................................................*
+*Br  251 :jet1phi_new_f : jet1phi_new_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3540459 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  252 :jet1phi_JEC_up_f : jet1phi_JEC_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3558791 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  253 :jet1phi_JEC_down_f : jet1phi_JEC_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3569752 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  254 :jet1phi_JER_up_f : jet1phi_JER_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3558288 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  255 :jet1phi_JER_down_f : jet1phi_JER_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3570174 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  256 :jet1e     : jet1e/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    2281778 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.31     *
+*............................................................................*
+*Br  257 :jet1e_new : jet1e_new/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    1857207 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  258 :jet1e_JEC_up : jet1e_JEC_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    1875180 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.83     *
+*............................................................................*
+*Br  259 :jet1e_JER_up : jet1e_JER_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    1875036 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.83     *
+*............................................................................*
+*Br  260 :jet1e_JEC_down : jet1e_JEC_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1886310 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.82     *
+*............................................................................*
+*Br  261 :jet1e_JER_down : jet1e_JER_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1886922 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.82     *
+*............................................................................*
+*Br  262 :jet1e_f   : jet1e_f/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    4515876 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  263 :jet1e_new_f : jet1e_new_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    3196738 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  264 :jet1e_JEC_up_f : jet1e_JEC_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    3215017 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  265 :jet1e_JER_up_f : jet1e_JER_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    3214567 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  266 :jet1e_JEC_down_f : jet1e_JEC_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3225929 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  267 :jet1e_JER_down_f : jet1e_JER_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3226453 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  268 :jet1csv   : jet1csv/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    1756161 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.01     *
+*............................................................................*
+*Br  269 :jet1csv_new : jet1csv_new/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    1779924 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.98     *
+*............................................................................*
+*Br  270 :jet1csv_JEC_up : jet1csv_JEC_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1797912 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  271 :jet1csv_JER_up : jet1csv_JER_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1797753 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  272 :jet1csv_JEC_down : jet1csv_JEC_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1809207 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.95     *
+*............................................................................*
+*Br  273 :jet1csv_JER_down : jet1csv_JER_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1809639 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.95     *
+*............................................................................*
+*Br  274 :jet1csv_f : jet1csv_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    3018174 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.75     *
+*............................................................................*
+*Br  275 :jet1csv_new_f : jet1csv_new_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3041995 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.75     *
+*............................................................................*
+*Br  276 :jet1csv_JEC_up_f : jet1csv_JEC_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3060346 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  277 :jet1csv_JER_up_f : jet1csv_JER_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3059824 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  278 :jet1csv_JEC_down_f : jet1csv_JEC_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3071047 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  279 :jet1csv_JER_down_f : jet1csv_JER_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3071710 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  280 :jet1deepcsv_probb : jet1deepcsv_probb/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1848461 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  281 :jet1deepcsv_probbb : jet1deepcsv_probbb/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    1840464 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.91     *
+*............................................................................*
+*Br  282 :jet1deepcsv_probc : jet1deepcsv_probc/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1848512 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br  283 :jet1deepcsv_probcc : jet1deepcsv_probcc/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    1132595 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.72     *
+*............................................................................*
+*Br  284 :jet1deepcsv_probb_new : jet1deepcsv_probb_new/D                    *
+*Entries :   598656 : Total  Size=    5484945 bytes  File Size  =    1872169 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  285 :jet1deepcsv_probbb_new : jet1deepcsv_probbb_new/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    1864202 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.88     *
+*............................................................................*
+*Br  286 :jet1deepcsv_probc_new : jet1deepcsv_probc_new/D                    *
+*Entries :   598656 : Total  Size=    5484945 bytes  File Size  =    1872256 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.87     *
+*............................................................................*
+*Br  287 :jet1deepcsv_probcc_new : jet1deepcsv_probcc_new/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    1156368 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.65     *
+*............................................................................*
+*Br  288 :jet1deepcsv_probb_JEC_up : jet1deepcsv_probb_JEC_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1889860 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  289 :jet1deepcsv_probbb_JEC_up : jet1deepcsv_probbb_JEC_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1881986 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.86     *
+*............................................................................*
+*Br  290 :jet1deepcsv_probc_JEC_up : jet1deepcsv_probc_JEC_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1889956 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  291 :jet1deepcsv_probcc_JEC_up : jet1deepcsv_probcc_JEC_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1174195 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.59     *
+*............................................................................*
+*Br  292 :jet1deepcsv_probb_JEC_down : jet1deepcsv_probb_JEC_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1901725 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.84     *
+*............................................................................*
+*Br  293 :jet1deepcsv_probbb_JEC_down : jet1deepcsv_probbb_JEC_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1893747 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  294 :jet1deepcsv_probc_JEC_down : jet1deepcsv_probc_JEC_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1901899 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.84     *
+*............................................................................*
+*Br  295 :jet1deepcsv_probcc_JEC_down : jet1deepcsv_probcc_JEC_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1186026 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.55     *
+*............................................................................*
+*Br  296 :jet1deepcsv_probb_JER_up : jet1deepcsv_probb_JER_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1889998 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  297 :jet1deepcsv_probbb_JER_up : jet1deepcsv_probbb_JER_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1882031 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.86     *
+*............................................................................*
+*Br  298 :jet1deepcsv_probc_JER_up : jet1deepcsv_probc_JER_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1890085 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  299 :jet1deepcsv_probcc_JER_up : jet1deepcsv_probcc_JER_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1174197 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.59     *
+*............................................................................*
+*Br  300 :jet1deepcsv_probb_JER_down : jet1deepcsv_probb_JER_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1901884 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.84     *
+*............................................................................*
+*Br  301 :jet1deepcsv_probbb_JER_down : jet1deepcsv_probbb_JER_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1893917 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  302 :jet1deepcsv_probc_JER_down : jet1deepcsv_probc_JER_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1901971 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.84     *
+*............................................................................*
+*Br  303 :jet1deepcsv_probcc_JER_down : jet1deepcsv_probcc_JER_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1186083 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.55     *
+*............................................................................*
+*Br  304 :jet1deepcsv_probb_f : jet1deepcsv_probb_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    3087328 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.73     *
+*............................................................................*
+*Br  305 :jet1deepcsv_probbb_f : jet1deepcsv_probbb_f/D                      *
+*Entries :   598656 : Total  Size=    5478998 bytes  File Size  =    3064733 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.75     *
+*............................................................................*
+*Br  306 :jet1deepcsv_probc_f : jet1deepcsv_probc_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    3078276 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  307 :jet1deepcsv_probcc_f : jet1deepcsv_probcc_f/D                      *
+*Entries :   598656 : Total  Size=    5478998 bytes  File Size  =    1139768 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.70     *
+*............................................................................*
+*Br  308 :jet1deepcsv_probb_new_f : jet1deepcsv_probb_new_f/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =    3111104 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.73     *
+*............................................................................*
+*Br  309 :jet1deepcsv_probbb_new_f : jet1deepcsv_probbb_new_f/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    3088587 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  310 :jet1deepcsv_probc_new_f : jet1deepcsv_probc_new_f/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =    3102136 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.73     *
+*............................................................................*
+*Br  311 :jet1deepcsv_probcc_new_f : jet1deepcsv_probcc_new_f/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1163542 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.63     *
+*............................................................................*
+*Br  312 :jet1deepcsv_probb_JEC_up_f : jet1deepcsv_probb_JEC_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    3129172 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br  313 :jet1deepcsv_probbb_JEC_up_f : jet1deepcsv_probbb_JEC_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    3106684 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  314 :jet1deepcsv_probc_JEC_up_f : jet1deepcsv_probc_JEC_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    3120212 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.73     *
+*............................................................................*
+*Br  315 :jet1deepcsv_probcc_JEC_up_f : jet1deepcsv_probcc_JEC_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1181333 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.57     *
+*............................................................................*
+*Br  316 :jet1deepcsv_probb_JEC_down_f : jet1deepcsv_probb_JEC_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    3140537 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br  317 :jet1deepcsv_probbb_JEC_down_f : jet1deepcsv_probbb_JEC_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    3118040 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  318 :jet1deepcsv_probc_JEC_down_f : jet1deepcsv_probc_JEC_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    3131637 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.73     *
+*............................................................................*
+*Br  319 :jet1deepcsv_probcc_JEC_down_f : jet1deepcsv_probcc_JEC_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    1193349 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.54     *
+*............................................................................*
+*Br  320 :jet1deepcsv_probb_JER_up_f : jet1deepcsv_probb_JER_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    3128933 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br  321 :jet1deepcsv_probbb_JER_up_f : jet1deepcsv_probbb_JER_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    3106416 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  322 :jet1deepcsv_probc_JER_up_f : jet1deepcsv_probc_JER_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    3119965 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.73     *
+*............................................................................*
+*Br  323 :jet1deepcsv_probcc_JER_up_f : jet1deepcsv_probcc_JER_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1181371 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.57     *
+*............................................................................*
+*Br  324 :jet1deepcsv_probb_JER_down_f : jet1deepcsv_probb_JER_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    3140819 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.72     *
+*............................................................................*
+*Br  325 :jet1deepcsv_probbb_JER_down_f : jet1deepcsv_probbb_JER_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    3118302 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  326 :jet1deepcsv_probc_JER_down_f : jet1deepcsv_probc_JER_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    3131851 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.73     *
+*............................................................................*
+*Br  327 :jet1deepcsv_probcc_JER_down_f : jet1deepcsv_probcc_JER_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    1193257 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.54     *
+*............................................................................*
+*Br  328 :jet1icsv  : jet1icsv/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    1762201 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.00     *
+*............................................................................*
+*Br  329 :jet1icsv_new : jet1icsv_new/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    1785865 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.97     *
+*............................................................................*
+*Br  330 :jet1icsv_JEC_up : jet1icsv_JEC_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1803774 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.95     *
+*............................................................................*
+*Br  331 :jet1icsv_JER_up : jet1icsv_JER_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1803694 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  332 :jet1icsv_JEC_down : jet1icsv_JEC_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1815283 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.94     *
+*............................................................................*
+*Br  333 :jet1icsv_JER_down : jet1icsv_JER_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1815580 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.94     *
+*............................................................................*
+*Br  334 :jet1icsv_f : jet1icsv_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    3024217 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.75     *
+*............................................................................*
+*Br  335 :jet1icsv_new_f : jet1icsv_new_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    3048058 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.75     *
+*............................................................................*
+*Br  336 :jet1icsv_JEC_up_f : jet1icsv_JEC_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    3066323 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  337 :jet1icsv_JER_up_f : jet1icsv_JER_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    3065887 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  338 :jet1icsv_JEC_down_f : jet1icsv_JEC_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    3077248 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  339 :jet1icsv_JER_down_f : jet1icsv_JER_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    3077773 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.74     *
+*............................................................................*
+*Br  340 :jet2pt    : jet2pt/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =    2286060 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.31     *
+*............................................................................*
+*Br  341 :jet2pt_new : jet2pt_new/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    1925897 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.75     *
+*............................................................................*
+*Br  342 :jet2pt_JEC_up : jet2pt_JEC_up/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    1941934 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.74     *
+*............................................................................*
+*Br  343 :jet2pt_JER_up : jet2pt_JER_up/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    1943726 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.74     *
+*............................................................................*
+*Br  344 :jet2pt_JEC_down : jet2pt_JEC_down/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1957330 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.72     *
+*............................................................................*
+*Br  345 :jet2pt_JER_down : jet2pt_JER_down/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1955612 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.73     *
+*............................................................................*
+*Br  346 :jet2pt_f  : jet2pt_f/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    4498189 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.18     *
+*............................................................................*
+*Br  347 :jet2pt_new_f : jet2pt_new_f/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3313078 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  348 :jet2pt_JEC_up_f : jet2pt_JEC_up_f/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    3322918 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  349 :jet2pt_JER_up_f : jet2pt_JER_up_f/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    3330907 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  350 :jet2pt_JEC_down_f : jet2pt_JEC_down_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    3348076 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  351 :jet2pt_JER_down_f : jet2pt_JER_down_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    3342793 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.60     *
+*............................................................................*
+*Br  352 :jet2eta   : jet2eta/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    2181393 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.42     *
+*............................................................................*
+*Br  353 :jet2eta_new : jet2eta_new/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    2203668 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.41     *
+*............................................................................*
+*Br  354 :jet2eta_JEC_up : jet2eta_JEC_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2221763 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.40     *
+*............................................................................*
+*Br  355 :jet2eta_JEC_down : jet2eta_JEC_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    2232965 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.39     *
+*............................................................................*
+*Br  356 :jet2eta_JER_up : jet2eta_JER_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2221497 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.40     *
+*............................................................................*
+*Br  357 :jet2eta_JER_down : jet2eta_JER_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    2233383 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.39     *
+*............................................................................*
+*Br  358 :jet2phi   : jet2phi/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    1946317 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.71     *
+*............................................................................*
+*Br  359 :jet2phi_new : jet2phi_new/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    1969903 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.69     *
+*............................................................................*
+*Br  360 :jet2phi_JEC_up : jet2phi_JEC_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1987500 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.68     *
+*............................................................................*
+*Br  361 :jet2phi_JEC_down : jet2phi_JEC_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1998939 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.67     *
+*............................................................................*
+*Br  362 :jet2phi_JER_up : jet2phi_JER_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1987732 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.68     *
+*............................................................................*
+*Br  363 :jet2phi_JER_down : jet2phi_JER_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1999618 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.67     *
+*............................................................................*
+*Br  364 :jet2phi_f : jet2phi_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    3515225 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.51     *
+*............................................................................*
+*Br  365 :jet2phi_new_f : jet2phi_new_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3539191 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  366 :jet2phi_JEC_up_f : jet2phi_JEC_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3556630 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  367 :jet2phi_JEC_down_f : jet2phi_JEC_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3567775 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  368 :jet2phi_JER_up_f : jet2phi_JER_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3557020 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  369 :jet2phi_JER_down_f : jet2phi_JER_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3568906 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  370 :jet2eta_f : jet2eta_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    3912767 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  371 :jet2eta_new_f : jet2eta_new_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    3935453 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  372 :jet2eta_JEC_up_f : jet2eta_JEC_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3953379 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  373 :jet2eta_JEC_down_f : jet2eta_JEC_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3964152 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  374 :jet2eta_JER_up_f : jet2eta_JER_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3953282 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  375 :jet2eta_JER_down_f : jet2eta_JER_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    3965168 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br  376 :jet2e     : jet2e/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    2281473 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.31     *
+*............................................................................*
+*Br  377 :jet2e_new : jet2e_new/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    1856644 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br  378 :jet2e_JEC_up : jet2e_JEC_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    1874813 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.83     *
+*............................................................................*
+*Br  379 :jet2e_JER_up : jet2e_JER_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    1874473 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.83     *
+*............................................................................*
+*Br  380 :jet2e_JEC_down : jet2e_JEC_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1885714 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.82     *
+*............................................................................*
+*Br  381 :jet2e_JER_down : jet2e_JER_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1886359 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.82     *
+*............................................................................*
+*Br  382 :jet2e_f   : jet2e_f/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    4513676 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  383 :jet2e_new_f : jet2e_new_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    3195663 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  384 :jet2e_JEC_up_f : jet2e_JEC_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    3214437 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  385 :jet2e_JER_up_f : jet2e_JER_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    3213492 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.66     *
+*............................................................................*
+*Br  386 :jet2e_JEC_down_f : jet2e_JEC_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3224472 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  387 :jet2e_JER_down_f : jet2e_JER_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    3225378 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.65     *
+*............................................................................*
+*Br  388 :jet2csv   : jet2csv/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    1693539 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.12     *
+*............................................................................*
+*Br  389 :jet2csv_new : jet2csv_new/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    1717133 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.09     *
+*............................................................................*
+*Br  390 :jet2csv_JEC_up : jet2csv_JEC_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1735716 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.07     *
+*............................................................................*
+*Br  391 :jet2csv_JER_up : jet2csv_JER_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    1734962 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.07     *
+*............................................................................*
+*Br  392 :jet2csv_JEC_down : jet2csv_JEC_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1746278 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.06     *
+*............................................................................*
+*Br  393 :jet2csv_JER_down : jet2csv_JER_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    1746848 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.05     *
+*............................................................................*
+*Br  394 :jet2csv_f : jet2csv_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    2914556 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  395 :jet2csv_new_f : jet2csv_new_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    2938400 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.81     *
+*............................................................................*
+*Br  396 :jet2csv_JEC_up_f : jet2csv_JEC_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    2957898 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.80     *
+*............................................................................*
+*Br  397 :jet2csv_JER_up_f : jet2csv_JER_up_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    2956229 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.81     *
+*............................................................................*
+*Br  398 :jet2csv_JEC_down_f : jet2csv_JEC_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    2967388 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.80     *
+*............................................................................*
+*Br  399 :jet2csv_JER_down_f : jet2csv_JER_down_f/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    2968115 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.80     *
+*............................................................................*
+*Br  400 :jet2deepcsv_probb : jet2deepcsv_probb/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1776058 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.01     *
+*............................................................................*
+*Br  401 :jet2deepcsv_probbb : jet2deepcsv_probbb/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    1770279 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.02     *
+*............................................................................*
+*Br  402 :jet2deepcsv_probc : jet2deepcsv_probc/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1775803 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.01     *
+*............................................................................*
+*Br  403 :jet2deepcsv_probcc : jet2deepcsv_probcc/D                          *
+*Entries :   598656 : Total  Size=    5467104 bytes  File Size  =    1132595 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.72     *
+*............................................................................*
+*Br  404 :jet2deepcsv_probb_new : jet2deepcsv_probb_new/D                    *
+*Entries :   598656 : Total  Size=    5484945 bytes  File Size  =    1799669 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.98     *
+*............................................................................*
+*Br  405 :jet2deepcsv_probbb_new : jet2deepcsv_probbb_new/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    1793949 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.99     *
+*............................................................................*
+*Br  406 :jet2deepcsv_probc_new : jet2deepcsv_probc_new/D                    *
+*Entries :   598656 : Total  Size=    5484945 bytes  File Size  =    1799449 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.98     *
+*............................................................................*
+*Br  407 :jet2deepcsv_probcc_new : jet2deepcsv_probcc_new/D                  *
+*Entries :   598656 : Total  Size=    5490892 bytes  File Size  =    1156368 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.65     *
+*............................................................................*
+*Br  408 :jet2deepcsv_probb_JEC_up : jet2deepcsv_probb_JEC_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1817191 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  409 :jet2deepcsv_probbb_JEC_up : jet2deepcsv_probbb_JEC_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1811431 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.98     *
+*............................................................................*
+*Br  410 :jet2deepcsv_probc_JEC_up : jet2deepcsv_probc_JEC_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1816953 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  411 :jet2deepcsv_probcc_JEC_up : jet2deepcsv_probcc_JEC_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1174195 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.59     *
+*............................................................................*
+*Br  412 :jet2deepcsv_probb_JEC_down : jet2deepcsv_probb_JEC_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1829543 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.95     *
+*............................................................................*
+*Br  413 :jet2deepcsv_probbb_JEC_down : jet2deepcsv_probbb_JEC_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1823765 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  414 :jet2deepcsv_probc_JEC_down : jet2deepcsv_probc_JEC_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1829302 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.95     *
+*............................................................................*
+*Br  415 :jet2deepcsv_probcc_JEC_down : jet2deepcsv_probcc_JEC_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1186026 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.55     *
+*............................................................................*
+*Br  416 :jet2deepcsv_probb_JER_up : jet2deepcsv_probb_JER_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1817498 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  417 :jet2deepcsv_probbb_JER_up : jet2deepcsv_probbb_JER_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1811778 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.97     *
+*............................................................................*
+*Br  418 :jet2deepcsv_probc_JER_up : jet2deepcsv_probc_JER_up/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1817278 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  419 :jet2deepcsv_probcc_JER_up : jet2deepcsv_probcc_JER_up/D            *
+*Entries :   598656 : Total  Size=    5508733 bytes  File Size  =    1174197 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.59     *
+*............................................................................*
+*Br  420 :jet2deepcsv_probb_JER_down : jet2deepcsv_probb_JER_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1829384 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.95     *
+*............................................................................*
+*Br  421 :jet2deepcsv_probbb_JER_down : jet2deepcsv_probbb_JER_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1823664 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.96     *
+*............................................................................*
+*Br  422 :jet2deepcsv_probc_JER_down : jet2deepcsv_probc_JER_down/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    1829164 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.95     *
+*............................................................................*
+*Br  423 :jet2deepcsv_probcc_JER_down : jet2deepcsv_probcc_JER_down/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1186083 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.55     *
+*............................................................................*
+*Br  424 :jet2deepcsv_probb_f : jet2deepcsv_probb_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    2916798 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  425 :jet2deepcsv_probbb_f : jet2deepcsv_probbb_f/D                      *
+*Entries :   598656 : Total  Size=    5478998 bytes  File Size  =    2896498 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.85     *
+*............................................................................*
+*Br  426 :jet2deepcsv_probc_f : jet2deepcsv_probc_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    2907979 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  427 :jet2deepcsv_probcc_f : jet2deepcsv_probcc_f/D                      *
+*Entries :   598656 : Total  Size=    5478998 bytes  File Size  =    1139768 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.70     *
+*............................................................................*
+*Br  428 :jet2deepcsv_probb_new_f : jet2deepcsv_probb_new_f/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =    2940562 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  429 :jet2deepcsv_probbb_new_f : jet2deepcsv_probbb_new_f/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    2920327 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  430 :jet2deepcsv_probc_new_f : jet2deepcsv_probc_new_f/D                *
+*Entries :   598656 : Total  Size=    5496839 bytes  File Size  =    2931855 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  431 :jet2deepcsv_probcc_new_f : jet2deepcsv_probcc_new_f/D              *
+*Entries :   598656 : Total  Size=    5502786 bytes  File Size  =    1163542 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.63     *
+*............................................................................*
+*Br  432 :jet2deepcsv_probb_JEC_up_f : jet2deepcsv_probb_JEC_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    2958375 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  433 :jet2deepcsv_probbb_JEC_up_f : jet2deepcsv_probbb_JEC_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    2938368 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  434 :jet2deepcsv_probc_JEC_up_f : jet2deepcsv_probc_JEC_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    2949814 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  435 :jet2deepcsv_probcc_JEC_up_f : jet2deepcsv_probcc_JEC_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1181333 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.57     *
+*............................................................................*
+*Br  436 :jet2deepcsv_probb_JEC_down_f : jet2deepcsv_probb_JEC_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    2970192 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  437 :jet2deepcsv_probbb_JEC_down_f : jet2deepcsv_probbb_JEC_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    2950029 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  438 :jet2deepcsv_probc_JEC_down_f : jet2deepcsv_probc_JEC_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    2961624 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  439 :jet2deepcsv_probcc_JEC_down_f : jet2deepcsv_probcc_JEC_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    1193349 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.54     *
+*............................................................................*
+*Br  440 :jet2deepcsv_probb_JER_up_f : jet2deepcsv_probb_JER_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    2958391 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  441 :jet2deepcsv_probbb_JER_up_f : jet2deepcsv_probbb_JER_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    2938156 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br  442 :jet2deepcsv_probc_JER_up_f : jet2deepcsv_probc_JER_up_f/D          *
+*Entries :   598656 : Total  Size=    5514680 bytes  File Size  =    2949684 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  443 :jet2deepcsv_probcc_JER_up_f : jet2deepcsv_probcc_JER_up_f/D        *
+*Entries :   598656 : Total  Size=    5520627 bytes  File Size  =    1181371 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.57     *
+*............................................................................*
+*Br  444 :jet2deepcsv_probb_JER_down_f : jet2deepcsv_probb_JER_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    2970277 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  445 :jet2deepcsv_probbb_JER_down_f : jet2deepcsv_probbb_JER_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    2950042 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  446 :jet2deepcsv_probc_JER_down_f : jet2deepcsv_probc_JER_down_f/D      *
+*Entries :   598656 : Total  Size=    5526574 bytes  File Size  =    2961570 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.83     *
+*............................................................................*
+*Br  447 :jet2deepcsv_probcc_JER_down_f : jet2deepcsv_probcc_JER_down_f/D    *
+*Entries :   598656 : Total  Size=    5532521 bytes  File Size  =    1193257 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.54     *
+*............................................................................*
+*Br  448 :jet2icsv  : jet2icsv/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    1699263 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.11     *
+*............................................................................*
+*Br  449 :jet2icsv_new : jet2icsv_new/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    1722896 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.08     *
+*............................................................................*
+*Br  450 :jet2icsv_JEC_up : jet2icsv_JEC_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1741356 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.06     *
+*............................................................................*
+*Br  451 :jet2icsv_JER_up : jet2icsv_JER_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    1740725 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.06     *
+*............................................................................*
+*Br  452 :jet2icsv_JEC_down : jet2icsv_JEC_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1752004 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.05     *
+*............................................................................*
+*Br  453 :jet2icsv_JER_down : jet2icsv_JER_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    1752611 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.05     *
+*............................................................................*
+*Br  454 :jet2icsv_f : jet2icsv_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    2919842 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.82     *
+*............................................................................*
+*Br  455 :jet2icsv_new_f : jet2icsv_new_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2943687 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.81     *
+*............................................................................*
+*Br  456 :jet2icsv_JEC_up_f : jet2icsv_JEC_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2963042 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.80     *
+*............................................................................*
+*Br  457 :jet2icsv_JER_up_f : jet2icsv_JER_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2961516 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.80     *
+*............................................................................*
+*Br  458 :jet2icsv_JEC_down_f : jet2icsv_JEC_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    2972693 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.80     *
+*............................................................................*
+*Br  459 :jet2icsv_JER_down_f : jet2icsv_JER_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    2973402 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.80     *
+*............................................................................*
+*Br  460 :drj1a     : drj1a/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    2294865 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.30     *
+*............................................................................*
+*Br  461 :drj1a_new : drj1a_new/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    2318964 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  462 :drj1a_JEC_up : drj1a_JEC_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2336942 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  463 :drj1a_JEC_down : drj1a_JEC_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2348373 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  464 :drj1a_JER_up : drj1a_JER_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2336793 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  465 :drj1a_JER_down : drj1a_JER_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2348679 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  466 :drj1a_f   : drj1a_f/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    4557204 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  467 :drj1a_new_f : drj1a_new_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    4581055 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  468 :drj1a_JEC_up_f : drj1a_JEC_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4599047 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  469 :drj1a_JEC_down_f : drj1a_JEC_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4609928 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  470 :drj1a_JER_up_f : drj1a_JER_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4598884 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  471 :drj1a_JER_down_f : drj1a_JER_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4610770 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  472 :drj2a     : drj2a/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    2295442 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.30     *
+*............................................................................*
+*Br  473 :drj2a_new : drj2a_new/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    2318882 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  474 :drj2a_JEC_up : drj2a_JEC_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2336836 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  475 :drj2a_JEC_down : drj2a_JEC_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2348031 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  476 :drj2a_JER_up : drj2a_JER_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2336711 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  477 :drj2a_JER_down : drj2a_JER_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2348597 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  478 :drj2a_f   : drj2a_f/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    4559009 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  479 :drj2a_new_f : drj2a_new_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    4582884 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  480 :drj2a_JEC_up_f : drj2a_JEC_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4601057 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  481 :drj2a_JEC_down_f : drj2a_JEC_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4612169 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  482 :drj2a_JER_up_f : drj2a_JER_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4600713 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  483 :drj2a_JER_down_f : drj2a_JER_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4612599 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  484 :drj1l     : drj1l/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    2290566 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.30     *
+*............................................................................*
+*Br  485 :drj1l_new : drj1l_new/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    2314289 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  486 :drj1l_JEC_up : drj1l_JEC_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2332232 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  487 :drj1l_JEC_down : drj1l_JEC_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2343614 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  488 :drj1l_JER_up : drj1l_JER_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2332118 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  489 :drj1l_JER_down : drj1l_JER_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2344004 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  490 :drj1l_f   : drj1l_f/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    4545064 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  491 :drj1l_new_f : drj1l_new_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    4568791 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  492 :drj1l_JEC_up_f : drj1l_JEC_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4586876 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  493 :drj1l_JEC_down_f : drj1l_JEC_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4597802 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  494 :drj1l_JER_up_f : drj1l_JER_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4586620 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  495 :drj1l_JER_down_f : drj1l_JER_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4598506 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  496 :drj2l     : drj2l/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    2295141 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.30     *
+*............................................................................*
+*Br  497 :drj2l_new : drj2l_new/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    2318657 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  498 :drj2l_JEC_up : drj2l_JEC_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2336757 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  499 :drj2l_JEC_down : drj2l_JEC_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2348069 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  500 :drj2l_JER_up : drj2l_JER_up/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2336486 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  501 :drj2l_JER_down : drj2l_JER_down/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    2348372 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  502 :drj2l_f   : drj2l_f/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    4557705 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  503 :drj2l_new_f : drj2l_new_f/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    4581416 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  504 :drj2l_JEC_up_f : drj2l_JEC_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4599717 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  505 :drj2l_JEC_down_f : drj2l_JEC_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4610710 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  506 :drj2l_JER_up_f : drj2l_JER_up_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4599245 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  507 :drj2l_JER_down_f : drj2l_JER_down_f/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    4611131 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  508 :Mjj       : Mjj/D                                                  *
+*Entries :   598656 : Total  Size=    5377899 bytes  File Size  =    2269314 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.32     *
+*............................................................................*
+*Br  509 :Mjj_new   : Mjj_new/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    2292879 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.30     *
+*............................................................................*
+*Br  510 :Mjj_JEC_up : Mjj_JEC_up/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    2311104 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  511 :Mjj_JEC_down : Mjj_JEC_down/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2322188 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  512 :Mjj_JER_up : Mjj_JER_up/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    2310708 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  513 :Mjj_JER_down : Mjj_JER_down/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2322594 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  514 :Mjj_f     : Mjj_f/D                                                *
+*Entries :   598656 : Total  Size=    5389793 bytes  File Size  =    4501408 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  515 :Mjj_new_f : Mjj_new_f/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    4525132 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  516 :Mjj_JEC_up_f : Mjj_JEC_up_f/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    4543609 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  517 :Mjj_JEC_down_f : Mjj_JEC_down_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4554048 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  518 :Mjj_JER_up_f : Mjj_JER_up_f/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    4542961 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  519 :Mjj_JER_down_f : Mjj_JER_down_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4554847 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br  520 :deltaeta  : deltaeta/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    2222093 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.38     *
+*............................................................................*
+*Br  521 :deltaeta_new : deltaeta_new/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2244582 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.37     *
+*............................................................................*
+*Br  522 :deltaeta_JEC_up : deltaeta_JEC_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2262919 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.36     *
+*............................................................................*
+*Br  523 :deltaeta_JEC_down : deltaeta_JEC_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2273785 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.35     *
+*............................................................................*
+*Br  524 :deltaeta_JER_up : deltaeta_JER_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2262411 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.36     *
+*............................................................................*
+*Br  525 :deltaeta_JER_down : deltaeta_JER_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2274297 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.35     *
+*............................................................................*
+*Br  526 :deltaeta_f : deltaeta_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    3997687 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.33     *
+*............................................................................*
+*Br  527 :deltaeta_new_f : deltaeta_new_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4020220 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  528 :deltaeta_JEC_up_f : deltaeta_JEC_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    4038648 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  529 :deltaeta_JEC_down_f : deltaeta_JEC_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    4048587 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  530 :deltaeta_JER_up_f : deltaeta_JER_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    4038049 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  531 :deltaeta_JER_down_f : deltaeta_JER_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    4049935 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.32     *
+*............................................................................*
+*Br  532 :zepp      : zepp/D                                                 *
+*Entries :   598656 : Total  Size=    5383846 bytes  File Size  =    2297116 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  533 :zepp_new  : zepp_new/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    2320291 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  534 :zepp_JEC_up : zepp_JEC_up/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    2338221 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  535 :zepp_JEC_down : zepp_JEC_down/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    2349596 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  536 :zepp_JER_up : zepp_JER_up/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    2338120 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  537 :zepp_JER_down : zepp_JER_down/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    2350006 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  538 :zepp_f    : zepp_f/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =    4565183 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  539 :zepp_new_f : zepp_new_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    4589139 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  540 :zepp_JEC_up_f : zepp_JEC_up_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    4607566 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  541 :zepp_JEC_down_f : zepp_JEC_down_f/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    4618213 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  542 :zepp_JER_up_f : zepp_JER_up_f/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    4606968 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  543 :zepp_JER_down_f : zepp_JER_down_f/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    4618854 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  544 :ptlep1    : ptlep1/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =    3549343 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.49     *
+*............................................................................*
+*Br  545 :etalep1   : etalep1/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    3788994 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.39     *
+*............................................................................*
+*Br  546 :philep1   : philep1/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    3846495 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br  547 :energylep1 : energylep1/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5299235 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  548 :j1metPhi  : j1metPhi/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    2317666 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  549 :j1metPhi_new : j1metPhi_new/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2341597 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  550 :j1metPhi_JEC_up : j1metPhi_JEC_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2359519 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  551 :j1metPhi_JEC_down : j1metPhi_JEC_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2370578 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.25     *
+*............................................................................*
+*Br  552 :j1metPhi_JER_up : j1metPhi_JER_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2359426 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  553 :j1metPhi_JER_down : j1metPhi_JER_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2371312 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.25     *
+*............................................................................*
+*Br  554 :j1metPhi_f : j1metPhi_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    4584453 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  555 :j1metPhi_new_f : j1metPhi_new_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4609051 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  556 :j1metPhi_JEC_up_f : j1metPhi_JEC_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    4626731 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  557 :j1metPhi_JEC_down_f : j1metPhi_JEC_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    4637768 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  558 :j1metPhi_JER_up_f : j1metPhi_JER_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    4626880 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  559 :j1metPhi_JER_down_f : j1metPhi_JER_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    4638766 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  560 :j2metPhi  : j2metPhi/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    2319984 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  561 :j2metPhi_new : j2metPhi_new/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2343574 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  562 :j2metPhi_JEC_up : j2metPhi_JEC_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2361861 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  563 :j2metPhi_JEC_down : j2metPhi_JEC_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2372788 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.25     *
+*............................................................................*
+*Br  564 :j2metPhi_JER_up : j2metPhi_JER_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2361403 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  565 :j2metPhi_JER_down : j2metPhi_JER_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2373289 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.25     *
+*............................................................................*
+*Br  566 :j2metPhi_f : j2metPhi_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    4590646 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  567 :j2metPhi_new_f : j2metPhi_new_f/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    4614277 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  568 :j2metPhi_JEC_up_f : j2metPhi_JEC_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    4632943 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  569 :j2metPhi_JEC_down_f : j2metPhi_JEC_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    4642963 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  570 :j2metPhi_JER_up_f : j2metPhi_JER_up_f/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    4632106 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  571 :j2metPhi_JER_down_f : j2metPhi_JER_down_f/D                        *
+*Entries :   598656 : Total  Size=    5473051 bytes  File Size  =    4643992 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br  572 :Dphiwajj  : Dphiwajj/D                                             *
+*Entries :   598656 : Total  Size=    5407634 bytes  File Size  =    2307643 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.29     *
+*............................................................................*
+*Br  573 :Dphiwajj_f : Dphiwajj_f/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    4551309 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br  574 :Dphiwajj_new : Dphiwajj_new/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    2331528 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.28     *
+*............................................................................*
+*Br  575 :Dphiwajj_JEC_up : Dphiwajj_JEC_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2349152 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  576 :Dphiwajj_JEC_down : Dphiwajj_JEC_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2360350 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  577 :Dphiwajj_JER_up : Dphiwajj_JER_up/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    2349357 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br  578 :Dphiwajj_JER_down : Dphiwajj_JER_down/D                            *
+*Entries :   598656 : Total  Size=    5461157 bytes  File Size  =    2361243 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br  579 :METraw_et : METraw_et/D                                            *
+*Entries :   598656 : Total  Size=    5413581 bytes  File Size  =    3762619 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.41     *
+*............................................................................*
+*Br  580 :METraw_phi : METraw_phi/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    3860251 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.37     *
+*............................................................................*
+*Br  581 :METraw_sumEt : METraw_sumEt/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =    3530290 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.50     *
+*............................................................................*
+*Br  582 :genMET    : genMET/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =     680527 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.75     *
+*............................................................................*
+*Br  583 :MET_et    : MET_et/D                                               *
+*Entries :   598656 : Total  Size=    5395740 bytes  File Size  =    5275381 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  584 :MET_et_new : MET_et_new/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =    5299133 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  585 :MET_et_JEC_up : MET_et_JEC_up/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    5316969 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  586 :MET_et_JEC_down : MET_et_JEC_down/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    5328846 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  587 :MET_et_JER_up : MET_et_JER_up/D                                    *
+*Entries :   598656 : Total  Size=    5437369 bytes  File Size  =    5316962 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  588 :MET_et_JER_down : MET_et_JER_down/D                                *
+*Entries :   598656 : Total  Size=    5449263 bytes  File Size  =    5328848 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  589 :MET_phi   : MET_phi/D                                              *
+*Entries :   598656 : Total  Size=    5401687 bytes  File Size  =    5282497 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  590 :MET_phi_new : MET_phi_new/D                                        *
+*Entries :   598656 : Total  Size=    5425475 bytes  File Size  =    5306265 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  591 :MET_phi_JEC_up : MET_phi_JEC_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    5324092 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  592 :MET_phi_JEC_down : MET_phi_JEC_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    5335964 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  593 :MET_phi_JER_up : MET_phi_JER_up/D                                  *
+*Entries :   598656 : Total  Size=    5443316 bytes  File Size  =    5324094 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  594 :MET_phi_JER_down : MET_phi_JER_down/D                              *
+*Entries :   598656 : Total  Size=    5455210 bytes  File Size  =    5335980 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+*Br  595 :HLT_Ele1  : HLT_Ele1/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     660513 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.38     *
+*............................................................................*
+*Br  596 :HLT_Ele2  : HLT_Ele2/I                                             *
+*Entries :   598656 : Total  Size=    3013002 bytes  File Size  =     663327 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.36     *
+*............................................................................*
+*Br  597 :HLT_Mu1   : HLT_Mu1/I                                              *
+*Entries :   598656 : Total  Size=    3007055 bytes  File Size  =     640476 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   4.51     *
+*............................................................................*
+*Br  598 :HLT_Mu2   : HLT_Mu2/I                                              *
+*Entries :   598656 : Total  Size=    3007055 bytes  File Size  =     808423 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.57     *
+*............................................................................*
+*Br  599 :HLT_Mu3   : HLT_Mu3/I                                              *
+*Entries :   598656 : Total  Size=    3007055 bytes  File Size  =     916932 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   3.15     *
+*............................................................................*
+*Br  600 :lumiWeight : lumiWeight/D                                          *
+*Entries :   598656 : Total  Size=    5419528 bytes  File Size  =     714897 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.41     *
+*............................................................................*
+*Br  601 :pileupWeight : pileupWeight/D                                      *
+*Entries :   598656 : Total  Size=    5431422 bytes  File Size  =     726783 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   7.31     *
+*............................................................................*
+*Br  602 :_passecalBadCalibFilterUpdate : _passecalBadCalibFilterUpdate/O    *
+*Entries :   598656 : Total  Size=    1341915 bytes  File Size  =     749120 *
+*Baskets :     5943 : Basket Size=      32000 bytes  Compression=   1.63     *
+*............................................................................*

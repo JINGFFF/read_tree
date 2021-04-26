@@ -6,7 +6,7 @@ import os
 #year              = sys.argv[1];
 
 #os.system("mkdir -p " + outdir);
-#os.system("python tree_print.py >> tree.txt ")
+os.system("python tree_print.py >> tree.txt ")
 infile =open('tree.txt', 'r')
 lines = infile.readlines()
 
