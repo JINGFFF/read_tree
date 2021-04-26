@@ -33,10 +33,24 @@ outfile_c.write('#include <map>\n')
 outfile_c.write('#include <sstream>\n')
 outfile_c.write('#include <string>\n')
 outfile_c.write('#include <vector>\n')
+outfile_c.write('#include <time.h>\n')
+outfile_c.write('#include <stdlib.h>\n')
+
 outfile_c.write('#include "tree.h"\n\n')
 outfile_c.write('using namespace std;\n\n')
 
+outfile_c.write('string getTime(){\n')
+outfile_c.write('   time_t timep;\n')
+outfile_c.write('   time (&timep);\n')
+outfile_c.write('   char tmp[64];\n')
+outfile_c.write('   strftime(tmp, sizeof(tmp), "%Y-%m-%d %H:%M:%S",localtime(&timep) );\n')
+outfile_c.write('   return tmp;\n')
+outfile_c.write('}\n')
+
+
 outfile_c.write('void tree_read(){\n')
+outfile_c.write('   string   time_start = getTime();\n')
+
 outfile_c.write('   TString infilename = "/data/pku/home/pengj/testvbs/data/for_analysis/2018_tight_for_analysis_single_muon_A.root";\n')
 outfile_c.write('   TFile *file1 =new TFile(infilename);\n')
 outfile_c.write('   TDirectory * dir = (TDirectory*)file1->Get("treeDumper");\n')
@@ -81,5 +95,7 @@ outfile_c.write('   while (fReader.Next()) {\n\n\n')
 outfile_c.write('      cout<<"event num : "<< n<<" "<<*nevent<<"   "<<*run<<"   "<<*ls<<endl;\n')
 outfile_c.write('      n++;\n\n\n')
 outfile_c.write('   }\n\n')
+outfile_c.write('   string   time_end = getTime();\n')
+outfile_c.write('   cout<<endl<<endl<<"time start : "<<time_start<<endl<<"time end   : "<<time_end<<endl;\n')
 
 outfile_c.write('}\n')
